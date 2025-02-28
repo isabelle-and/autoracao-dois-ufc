@@ -1,2 +1,7 @@
-# autoracao-dois-ufc
-#### AUTORAÇÃO MULTIMÍDIA II 
+# UNIVERSIDADE FEDERAL DO CEARÁ  
+## INSTITUTO UNIVERSIDADE VIRTUAL  
+### CURSO DE SISTEMAS E MÍDIAS DIGITAIS  
+
+#### AUTORAÇÃO MULTIMÍDIA II  
+
+**Trabalho Teórico-Prático de HTML5, CSS e JavaScript**
