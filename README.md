@@ -5,7 +5,7 @@
 #### AUTORAÇÃO MULTIMÍDIA II  
 
 **Trabalho Teórico-Prático de HTML5, CSS e JavaScript**
-<<<<<<< HEAD
+
 =======
 
 ## Equipe  
