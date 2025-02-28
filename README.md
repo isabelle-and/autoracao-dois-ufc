@@ -5,3 +5,14 @@
 #### AUTORAÇÃO MULTIMÍDIA II  
 
 **Trabalho Teórico-Prático de HTML5, CSS e JavaScript**
+<<<<<<< HEAD
+=======
+
+## Equipe  
+
+O projeto da equipe conta com a colaboração dos estudantes:  
+
+- **Enzo Ranieri Barbosa Rodrigues da Silva** - 547869  
+- **Henrique Michael A. de Oliveira Matos de Morais** - 547904  
+- **Isabelle Maria Andreetta de Oliveira Matos de Morais** - 547895  
+>>>>>>> Create README.md
